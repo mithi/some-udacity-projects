@@ -1,0 +1,21 @@
+map_type: costmap
+
+robot_base_frame: robot_footprint
+obstacle_range: 2.5
+raytrace_range: 3.0
+robot_radius: 0.5
+inflation_radius: 1.0
+update_frequency: 1.0
+publish_frequency: 1.0
+static_map: true
+rolling_window: false
+transform_tolerance: 0.5
+resolution: 0.1
+
+laser_scan_sensor: {
+  sensor_frame: hokuyo, 
+  data_type: LaserScan,
+  topic: /udacity_bot/laser/scan, 
+  marking: true, 
+  clearing: true
+}

@@ -1,0 +1,6 @@
+global_costmap:
+  global_frame: map
+  width: 40.0
+  height: 40.0
+
+

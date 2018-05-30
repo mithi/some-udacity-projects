@@ -1,0 +1,4 @@
+local_costmap:
+  global_frame: odom
+  width: 4.0
+  height: 4.0
