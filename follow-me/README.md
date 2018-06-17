@@ -8,10 +8,10 @@ In this project I used a fully-convolutional neural network to paint all pixels 
 - https://github.com/udacity/RoboND-DeepLearning
 
 # WRITEUP and other Requirements
-- writeup: https://github.com/mithi/follow-me/blob/master/docs/WRITEUPV2.pdf
-- model: https://github.com/mithi/follow-me/blob/master/data/weights/config_model_weights.h5
-- weights: https://github.com/mithi/follow-me/blob/master/data/weights/model_weights.h5
-- html: https://github.com/mithi/follow-me/blob/master/docs/model_training.html
+- [writeup](./docs/WRITEUPV2.pdf)
+- [model](./data/weights/config_model_weights.h5)
+- [weights](./data/weights/model_weights.h5)
+- [html](./docs/model_training.html)
 
 # Jupyter Notebook 
 - I ran this on Udacity Robotics Laboratory Community AMI in AWS 
