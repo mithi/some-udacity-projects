@@ -1,0 +1,47 @@
+Behavioral Cloning with David Silver:
+https://www.youtube.com/watch?v=rpxZ87YFg0M&feature=youtube
+
+Drawbacks of Behavioral Cloning George:
+https://www.youtube.com/watch?v=Hxoke1lDJ9w
+
+Nuts and Bolts of Applying Deep Learning (Andrew Ng)
+https://www.youtube.com/watch?v=F1ka6a13S9I
+
+function-in-keras:
+https://github.com/fchollet/keras/issues/3519
+
+Batch size discussion :
+http://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent
+
+Normalization:
+https://ustczen.gitbooks.io/keras/content/layers/normalization.html
+
+BatchNormalization:
+http://stackoverflow.com/questions/34716454/where-do-i-call-the-batchnormalization-function-in-keras
+
+
+https://keras.io/layers/normalization/
+Normalization:
+https://ustczen.gitbooks.io/keras/content/layers/normalization.html
+
+BatchNormalization:
+http://stackoverflow.com/questions/34716454/where-do-i-call-the-batchnormalization-function-in-keras
+
+Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)
+https://arxiv.org/pdf/1511.07289v1.pdf
+Advanced Activations Layers
+https://keras.io/layers/advanced_activations
+Efficient BackProp
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+
+Dropouts :
+
+https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/
+Dropout - http://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
+Dropout Analysis - https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout
+
+You have already used Adam optimiser.But below is the link you can still check :
+
+http://sebastianruder.com/optimizing-gradient-descent/index.html#adam
+
+http://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
