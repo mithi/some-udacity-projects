@@ -1,0 +1,2 @@
+RoboND-Perception-Project/gazebo_grasp_plugin:RoboND-Perception-Project/pr2_moveit:RoboND-Perception-Project/pr2_robot:sensor_stick
+-DCATKIN_DEVEL_PREFIX=/home/mithi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mithi/catkin_ws/install -G Unix Makefiles

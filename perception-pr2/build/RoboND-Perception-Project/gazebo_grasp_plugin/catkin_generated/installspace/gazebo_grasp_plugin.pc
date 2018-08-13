@@ -1,0 +1,8 @@
+prefix=/home/mithi/catkin_ws/install
+
+Name: gazebo_grasp_plugin
+Description: Description of gazebo_grasp_plugin
+Version: 1.0.1
+Cflags: -I/home/mithi/catkin_ws/install/include
+Libs: -L/home/mithi/catkin_ws/install/lib -lgazebo_grasp_fix
+Requires: gazebo_ros geometry_msgs roscpp std_msgs

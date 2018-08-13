@@ -1,0 +1,8 @@
+prefix=/home/mithi/catkin_ws/devel
+
+Name: pr2_robot
+Description: Description of pr2_robot
+Version: 0.0.0
+Cflags: -I/home/mithi/catkin_ws/devel/include
+Libs: -L/home/mithi/catkin_ws/devel/lib 
+Requires: 

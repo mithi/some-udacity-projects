@@ -20,6 +20,14 @@
 ## Histogram Filter
 - Localization using Histogram Filter Algorithm
 
+## Perception PR 2
+  - A catkin workspace in ROS where a virtual PR2 Robot with an RGBD camera perceives objects and places them on the appropriate dropbox.
+
+## Point Cloud Recognition
+  - A catkin workspace in ROS that capture features of objects and then train a classifier to correctly identify the objects
+from a point cloud file.
+
+
 ## Related Projects
 - [Particle Filters and Kidnapped Vehicle Project](https://github.com/mithi/particle-filter-prototype)
   - A particle-filter visualization in Python using Bokeh based on Udacity's free A.I. for Robotics course
@@ -28,11 +36,6 @@
   - A small collection of toys to demonstrate PID control concepts.
 - [Inverse Kinematics Arm](https://github.com/mithi/arm-ik)
   - An Inverse Kinematics 6DOF Robot Arm Pick and Place Project in ROS.
-- [Perception PR 2](https://github.com/mithi/perception-pr2)
-  - A catkin workspace in ROS where a virtual PR2 Robot with an RGBD camera perceives objects and places them on the appropriate dropbox.
-- [Point Cloud Recognitions](https://github.com/mithi/point-cloud-recognition)
-  - A catkin workspace in ROS that capture features of objects and then train a classifier to correctly identify the objects 
-from a point cloud file.
 - [Point Cloud Filter](https://github.com/mithi/point-cloud-filter)
   - Scripts showcasing filtering techniques applied to point cloud data.
 - [Point Cloud Clusters](https://github.com/mithi/point-cloud-clusters)
@@ -52,4 +55,4 @@ from a point cloud file.
 - [Vehicle Tracking](https://github.com/mithi/vehicle-tracking-2)
   - A vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM).
 - [Advanced Lane Detection](https://github.com/mithi/advanced-lane-detection)
-  - An advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. 
+  - An advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding.
