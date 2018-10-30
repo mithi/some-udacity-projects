@@ -93,17 +93,17 @@ plane model which I still consider as part of the model.
 - [Test Scene 3](https://github.com/mithi/perception-pr2/blob/master/src/RoboND-Perception-Project/pr2_robot/scripts/output_3.yaml)
 
 # Files 
-- [Project script](https://github.com/mithi/perception-pr2/blob/master/src/RoboND-Perception-Project/pr2_robot/scripts/project.py)
-- [Resulting Model](https://raw.githubusercontent.com/mithi/perception-pr2/master/src/RoboND-Perception-Project/pr2_robot/scripts/model.sav)
-- [Capture Features Script](https://github.com/mithi/perception-pr2/blob/master/src/sensor_stick/scripts/capture_features.py)
-- [Training Script](https://github.com/mithi/perception-pr2/blob/master/src/sensor_stick/scripts/train_svm.py)
-- [Features Script](https://github.com/mithi/perception-pr2/blob/master/src/sensor_stick/src/sensor_stick/features.py)
+- [Project script](./src/RoboND-Perception-Project/pr2_robot/scripts/project.py)
+- [Resulting Model](./src/RoboND-Perception-Project/pr2_robot/scripts/model.sav)
+- [Capture Features Script](./src/sensor_stick/scripts/capture_features.py)
+- [Training Script](./src/sensor_stick/scripts/train_svm.py)
+- [Features Script](./src/sensor_stick/src/sensor_stick/features.py)
 
 # Results
-![result](https://github.com/mithi/perception-pr2/blob/master/img/label_test3.png)
-![result 1](https://github.com/mithi/perception-pr2/blob/master/img/test1.png)
-![result 2](https://github.com/mithi/perception-pr2/blob/master/img/test2.png)
-![result 3](https://github.com/mithi/perception-pr2/blob/master/img/test3.png)
+![result](./img/label_test3.png)
+![result 1](./img/test1.png)
+![result 2](./img/test2.png)
+![result 3](./img/test3.png)
 - More screenshots can be found in the `/img` folder
 
 # Reflections and Future Work
