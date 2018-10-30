@@ -3,7 +3,7 @@
 # Capturing features and Training Models for Object Detection
 - There are eight types of objects: biscuits, soap, soap2, book, glue, sticky notes, snacks, and eraser. 
 - To train the model, 
-[**THIS SCRIPT**](https://github.com/mithi/perception-pr2/blob/master/src/sensor_stick/scripts/capture_features.py)
+[**THIS SCRIPT**](./src/sensor_stick/scripts/capture_features.py)
 spawns each object in **100 random orientations** and computes features based on the point clouds 
 resulting from each of the random orientations.
 - The features are normalized histograms of the color and normal 3d vectors for each point in the point cloud
@@ -11,12 +11,12 @@ captured by the virtual RGBD camera. The color is expressed in **HSV** format, b
 regardless of lighting conditions. The normal vectors for each point capture the shape of object. I used **64 bins**
 for the histograms. They are normalized because it's the amount with respect to each other that matters not the actual amount. 
 You can inspect the 
-[**SCRIPT HERE**](https://github.com/mithi/perception-pr2/blob/master/src/sensor_stick/src/sensor_stick/features.py)
+[**SCRIPT HERE**](./src/sensor_stick/src/sensor_stick/features.py)
 - I used 
-[**THIS SCRIPT**](https://github.com/mithi/perception-pr2/blob/master/src/sensor_stick/scripts/train_svm.py)
+[**THIS SCRIPT**](./src/sensor_stick/scripts/train_svm.py)
 to train the classifier which is a support vector machine classifier. 
 - Check out the resulting confusion matrix below. 
-![training result](https://github.com/mithi/perception-pr2/blob/master/img/confusion-matrix.png)
+![training result](./img/confusion-matrix.png)
 
 # Perception Pipeline
 - You can inspect my
