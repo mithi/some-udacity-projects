@@ -2,12 +2,11 @@
 A catkin workspace in ROS where a virtual PR2 Robot with an RGBD camera perceives objects and places them
 on the appropriate dropbox.
 
-This is my submission as partial fulfillment of [Udacity's Robotics Nanodegree](https://udacity.com/robotics).
 
 # Related Links
 Here are some  articles which use neural networks instead of SVM:
-- https://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html
-- http://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/
+- [Research Google Blog](https://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html)
+- [Research Berkely](http://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/)
 
 # [WRITEUP](./WRITEUP.md)
 
