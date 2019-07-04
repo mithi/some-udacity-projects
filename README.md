@@ -26,13 +26,13 @@
   - A catkin workspace in ROS that capture features of objects and then train a classifier to correctly identify the objects
 from a point cloud file.
 
+## [PID Toy](https://github.com/mithi/simple-pid-toy)
+  - A small collection of toys to demonstrate PID control concepts.
 
-## Related Projects
+# Related Projects
 - [Particle Filters and Kidnapped Vehicle Project](https://github.com/mithi/particle-filter-prototype)
   - A particle-filter visualization in Python using Bokeh based on Udacity's free A.I. for Robotics course
   - A particle filter implementation to track a kidnapped robot.
-- [PID Toy](https://github.com/mithi/simple-pid-toy)
-  - A small collection of toys to demonstrate PID control concepts.
 - [Inverse Kinematics Arm](https://github.com/mithi/arm-ik)
   - An Inverse Kinematics 6DOF Robot Arm Pick and Place Project in ROS.
 - [Point Cloud Filter](https://github.com/mithi/point-cloud-filter)
