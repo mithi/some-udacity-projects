@@ -26,7 +26,7 @@
   - A catkin workspace in ROS that capture features of objects and then train a classifier to correctly identify the objects
 from a point cloud file.
 
-## [PID Toy](https://github.com/mithi/simple-pid-toy)
+## [PID Toy]
   - A small collection of toys to demonstrate PID control concepts.
 
 # Related Projects
