@@ -1,8 +1,0 @@
-prefix=/home/mithi/catkin_ws/devel
-
-Name: pr2_moveit
-Description: Description of pr2_moveit
-Version: 0.3.0
-Cflags: 
-Libs: -L/home/mithi/catkin_ws/devel/lib 
-Requires: 
